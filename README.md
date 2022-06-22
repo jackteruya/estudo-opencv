@@ -5,4 +5,4 @@ Este projeto detecta se a é face masculino e feminina, a partir de uma image no
 Caso queira outra imagem, coloque a nova image no diretorio `detected_img` com o nome `img.png`.
 
 Para rodar o projeto:
- - python -m main.py
+ - python main.py
